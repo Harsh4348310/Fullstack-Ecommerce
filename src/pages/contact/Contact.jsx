@@ -50,15 +50,15 @@ const Contact = () => {
                <div>
                   <div className="flex items-center gap-2 my-2 md:text-xl">
                      <AiOutlineMail />
-                     <a href="mailto: Support@eshop.com?subject=Feedback&body=message">
-                        Support@eshop.com
+                     <a href="mailto: harshsuvagiya432004@gmail.com?subject=Feedback&body=message">
+                        harshsuvagiya432004@gmail.com
                      </a>
                   </div>
                   <div className="flex items-center gap-2  my-2 md:text-xl">
                      <CiPhone />
-                     <a href="tel:+91-123-12345">91-123-12345</a>
+                     <a href="tel:+91-123-12345">91-73830-03682</a>
                   </div>
-                  <div className="flex items-center gap-2 md:text-xl  my-2">
+                  <div className="flex items-center gap-2 md:text-xl  my-2"> 
                      <AiOutlineTwitter />
                      <a
                         href="https://twitter.com/kartik_im"
