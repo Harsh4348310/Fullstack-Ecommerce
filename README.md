@@ -17,7 +17,7 @@ eShop.com is an e-Commerce website that enables users to shop through variety of
 
 ## LIVE-Website-Link
 
-[EShop.com](https://eshop-firebase.vercel.app/)
+[EShop.com](https://fullstack-ecommerce-three.vercel.app/)
 
 ## Getting-Started
 
@@ -40,7 +40,7 @@ To get started follow this guide:
 In your terminal clone repo to your local machine using git clone:
 
 ```
-git clone https://github.com/kartikpavan/Fullstack-Ecommerce.git
+git clone https://github.com/Harsh4348310/Fullstack-Ecommerce.git
 ```
 
 Move to your newly cloned repo by entering the following in your terminal:
